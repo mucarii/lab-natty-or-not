@@ -1,51 +1,41 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
 
-> Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Título do Projeto Extremamente Aesthetic ;
+IA no Dia a Dia: Transformando Rotinas e Facilitando Vidas
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Com a ajuda da inteligencia artificial, criei um texto e uma imagem sobre o tema para realizar o desafio da DIO
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+chat GPT
+leonard.ia
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Passo 1: escolhi um tema e pedi para o chat-gpt criar um pequeno e-book sobre o assunto
+Passo 2: fiz as alteracoes ao meu agrado na resposta dele
+passo 3: gerei a imagem no leonard.ia sobre o tema selecionado
+Passo 4:juntei todas as partes
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+IA no Dia a Dia: Transformando Rotinas e Facilitando Vidas
 
-### Exemplos e Insigths
+A inteligência artificial (IA) tem se infiltrado de maneira silenciosa, porém impactante, em nosso cotidiano, transformando a maneira como vivemos, trabalhamos e nos divertimos. Abaixo estão algumas das maneiras mais comuns pelas quais a IA está moldando nossas rotinas diárias.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Assistentes Pessoais
+Dispositivos como Alexa, Siri e Google Assistant têm se tornado companheiros indispensáveis em muitos lares. Esses assistentes virtuais utilizam IA para interpretar comandos de voz, responder perguntas, controlar dispositivos domésticos inteligentes e até mesmo ajudar a gerenciar agendas e lembretes. A facilidade de poder simplesmente pedir ao assistente para ajustar o termostato, apagar as luzes ou tocar uma música favorita tornou-se uma conveniência moderna.
 
-## Links Interessantes
+Entretenimento Personalizado
+Plataformas de streaming, como Netflix e Spotify, usam algoritmos de IA para analisar nossas preferências e hábitos de consumo, recomendando filmes, séries e músicas que provavelmente iremos gostar. Essa personalização melhora significativamente a experiência do usuário, oferecendo conteúdo relevante e descobertas interessantes sem a necessidade de longas pesquisas.
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+Compras Online
+A IA está revolucionando o e-commerce com recomendações de produtos baseadas em nossas compras anteriores e comportamentos de navegação. Sites como Amazon utilizam algoritmos de machine learning para prever o que os clientes podem querer comprar em seguida, aumentando a satisfação do cliente e impulsionando as vendas. Além disso, chatbots alimentados por IA fornecem suporte ao cliente 24/7, resolvendo dúvidas e problemas de maneira eficiente.
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Transporte e Mobilidade
+No setor de transporte, a IA está presente nos sistemas de navegação e nos aplicativos de compartilhamento de caronas, como Uber e Lyft. Esses aplicativos usam IA para otimizar rotas, reduzir tempos de espera e calcular tarifas dinâmicas com base na demanda. Além disso, a promessa de carros autônomos está cada vez mais próxima de se tornar realidade, prometendo transformar nossa maneira de viajar com segurança e eficiência.
+
+Saúde e Bem-Estar
+Dispositivos vestíveis, como smartwatches, utilizam IA para monitorar nossa saúde em tempo real. Eles podem rastrear atividades físicas, monitorar frequência cardíaca e até detectar padrões anômalos que podem indicar problemas de saúde. Aplicativos de saúde mental também usam IA para oferecer suporte personalizado, desde meditações guiadas até terapias cognitivas baseadas em inteligência artificial.
+
+Em resumo, a IA está se tornando uma parte integrante de nossas vidas diárias, proporcionando conveniência, personalização e eficiência. Ao continuar a evoluir, podemos esperar que a inteligência artificial transforme ainda mais aspectos de nossa rotina, trazendo avanços e melhorias que hoje apenas começamos a imaginar.
